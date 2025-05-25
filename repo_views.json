@@ -1,14 +1,14 @@
 {
     "Pritz69/LeetCode-Solutions": {
         "total_views_last_14_days": 8,
-        "last_recorded_total": 7,
-        "views_diff_last_run": 1,
+        "last_recorded_total": 8,
+        "views_diff_last_run": 0,
         "cumulative_views": 8
     },
     "Pritz69/GFG_POTD": {
-        "total_views_last_14_days": 127,
-        "last_recorded_total": 135,
-        "views_diff_last_run": -8,
+        "total_views_last_14_days": 114,
+        "last_recorded_total": 127,
+        "views_diff_last_run": -13,
         "cumulative_views": 138
     },
     "Pritz69/UNFOLLOW-GITHUB-USERS-WHO-DONT-FOLLOW-US": {
@@ -31,20 +31,20 @@
     },
     "Pritz69/5011251": {
         "total_views_last_14_days": 3,
-        "last_recorded_total": 1,
-        "views_diff_last_run": 2,
+        "last_recorded_total": 3,
+        "views_diff_last_run": 0,
         "cumulative_views": 4
     },
     "Pritz69/Portfolio_Website": {
-        "total_views_last_14_days": 6,
-        "last_recorded_total": 5,
+        "total_views_last_14_days": 7,
+        "last_recorded_total": 6,
         "views_diff_last_run": 1,
-        "cumulative_views": 6
+        "cumulative_views": 7
     },
     "Pritz69/LeetCode-JS-30DaysChallenge": {
-        "total_views_last_14_days": 24,
-        "last_recorded_total": 25,
-        "views_diff_last_run": -1,
+        "total_views_last_14_days": 16,
+        "last_recorded_total": 24,
+        "views_diff_last_run": -8,
         "cumulative_views": 25
     },
     "Pritz69/Calculator": {
@@ -66,10 +66,10 @@
         "cumulative_views": 0
     },
     "Pritz69/Terminal_Portfolio": {
-        "total_views_last_14_days": 1,
+        "total_views_last_14_days": 2,
         "last_recorded_total": 1,
-        "views_diff_last_run": 0,
-        "cumulative_views": 1
+        "views_diff_last_run": 1,
+        "cumulative_views": 2
     },
     "Pritz69/MovieRecommenderSite": {
         "total_views_last_14_days": 8,
@@ -78,15 +78,15 @@
         "cumulative_views": 8
     },
     "Pritz69/Wine_Quality_Prediction_ML": {
-        "total_views_last_14_days": 0,
+        "total_views_last_14_days": 1,
         "last_recorded_total": 0,
-        "views_diff_last_run": 0,
-        "cumulative_views": 0
+        "views_diff_last_run": 1,
+        "cumulative_views": 1
     },
     "Pritz69/GitHub-Repo-View-Tracker": {
-        "total_views_last_14_days": 183,
-        "last_recorded_total": 178,
-        "views_diff_last_run": 5,
-        "cumulative_views": 183
+        "total_views_last_14_days": 185,
+        "last_recorded_total": 183,
+        "views_diff_last_run": 2,
+        "cumulative_views": 185
     }
 }
