@@ -6,21 +6,21 @@
         "cumulative_views": 8
     },
     "Pritz69/GFG_POTD": {
-        "total_views_last_14_days": 114,
-        "last_recorded_total": 127,
-        "views_diff_last_run": -13,
+        "total_views_last_14_days": 107,
+        "last_recorded_total": 114,
+        "views_diff_last_run": -7,
         "cumulative_views": 138
     },
     "Pritz69/UNFOLLOW-GITHUB-USERS-WHO-DONT-FOLLOW-US": {
-        "total_views_last_14_days": 35,
+        "total_views_last_14_days": 36,
         "last_recorded_total": 35,
-        "views_diff_last_run": 0,
-        "cumulative_views": 35
+        "views_diff_last_run": 1,
+        "cumulative_views": 36
     },
     "Pritz69/EmployeeManagementSystem-FULL-STACK-CRUD": {
-        "total_views_last_14_days": 1,
+        "total_views_last_14_days": 0,
         "last_recorded_total": 1,
-        "views_diff_last_run": 0,
+        "views_diff_last_run": -1,
         "cumulative_views": 1
     },
     "Pritz69/Newton-School-POTD": {
@@ -30,21 +30,21 @@
         "cumulative_views": 4
     },
     "Pritz69/5011251": {
-        "total_views_last_14_days": 3,
+        "total_views_last_14_days": 6,
         "last_recorded_total": 3,
-        "views_diff_last_run": 0,
-        "cumulative_views": 4
+        "views_diff_last_run": 3,
+        "cumulative_views": 7
     },
     "Pritz69/Portfolio_Website": {
         "total_views_last_14_days": 7,
-        "last_recorded_total": 6,
-        "views_diff_last_run": 1,
+        "last_recorded_total": 7,
+        "views_diff_last_run": 0,
         "cumulative_views": 7
     },
     "Pritz69/LeetCode-JS-30DaysChallenge": {
         "total_views_last_14_days": 16,
-        "last_recorded_total": 24,
-        "views_diff_last_run": -8,
+        "last_recorded_total": 16,
+        "views_diff_last_run": 0,
         "cumulative_views": 25
     },
     "Pritz69/Calculator": {
@@ -67,8 +67,8 @@
     },
     "Pritz69/Terminal_Portfolio": {
         "total_views_last_14_days": 2,
-        "last_recorded_total": 1,
-        "views_diff_last_run": 1,
+        "last_recorded_total": 2,
+        "views_diff_last_run": 0,
         "cumulative_views": 2
     },
     "Pritz69/MovieRecommenderSite": {
@@ -79,14 +79,14 @@
     },
     "Pritz69/Wine_Quality_Prediction_ML": {
         "total_views_last_14_days": 1,
-        "last_recorded_total": 0,
-        "views_diff_last_run": 1,
+        "last_recorded_total": 1,
+        "views_diff_last_run": 0,
         "cumulative_views": 1
     },
     "Pritz69/GitHub-Repo-View-Tracker": {
-        "total_views_last_14_days": 185,
-        "last_recorded_total": 183,
-        "views_diff_last_run": 2,
-        "cumulative_views": 185
+        "total_views_last_14_days": 188,
+        "last_recorded_total": 185,
+        "views_diff_last_run": 3,
+        "cumulative_views": 188
     }
 }
