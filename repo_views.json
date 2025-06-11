@@ -7,14 +7,14 @@
     },
     "Pritz69/GFG_POTD": {
         "total_views_last_14_days": 50,
-        "last_recorded_total": 49,
-        "views_diff_last_run": 1,
+        "last_recorded_total": 50,
+        "views_diff_last_run": 0,
         "cumulative_views": 144
     },
     "Pritz69/UNFOLLOW-GITHUB-USERS-WHO-DONT-FOLLOW-US": {
         "total_views_last_14_days": 3,
-        "last_recorded_total": 4,
-        "views_diff_last_run": -1,
+        "last_recorded_total": 3,
+        "views_diff_last_run": 0,
         "cumulative_views": 39
     },
     "Pritz69/EmployeeManagementSystem-FULL-STACK-CRUD": {
@@ -31,8 +31,8 @@
     },
     "Pritz69/5011251": {
         "total_views_last_14_days": 14,
-        "last_recorded_total": 17,
-        "views_diff_last_run": -3,
+        "last_recorded_total": 14,
+        "views_diff_last_run": 0,
         "cumulative_views": 21
     },
     "Pritz69/Portfolio_Website": {
@@ -42,9 +42,9 @@
         "cumulative_views": 8
     },
     "Pritz69/LeetCode-JS-30DaysChallenge": {
-        "total_views_last_14_days": 54,
+        "total_views_last_14_days": 41,
         "last_recorded_total": 54,
-        "views_diff_last_run": 0,
+        "views_diff_last_run": -13,
         "cumulative_views": 64
     },
     "Pritz69/Calculator": {
@@ -72,10 +72,10 @@
         "cumulative_views": 2
     },
     "Pritz69/MovieRecommenderSite": {
-        "total_views_last_14_days": 0,
+        "total_views_last_14_days": 2,
         "last_recorded_total": 0,
-        "views_diff_last_run": 0,
-        "cumulative_views": 8
+        "views_diff_last_run": 2,
+        "cumulative_views": 10
     },
     "Pritz69/Wine_Quality_Prediction_ML": {
         "total_views_last_14_days": 0,
@@ -84,9 +84,9 @@
         "cumulative_views": 1
     },
     "Pritz69/GitHub-Repo-View-Tracker": {
-        "total_views_last_14_days": 11,
-        "last_recorded_total": 12,
-        "views_diff_last_run": -1,
+        "total_views_last_14_days": 7,
+        "last_recorded_total": 11,
+        "views_diff_last_run": -4,
         "cumulative_views": 195
     }
 }
