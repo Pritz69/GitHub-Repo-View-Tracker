@@ -1,15 +1,15 @@
 {
     "Pritz69/LeetCode-Solutions": {
-        "total_views_last_14_days": 40,
-        "last_recorded_total": 46,
-        "views_diff_last_run": -6,
+        "total_views_last_14_days": 37,
+        "last_recorded_total": 40,
+        "views_diff_last_run": -3,
         "cumulative_views": 48
     },
     "Pritz69/GFG_POTD": {
-        "total_views_last_14_days": 42,
-        "last_recorded_total": 47,
-        "views_diff_last_run": -5,
-        "cumulative_views": 144
+        "total_views_last_14_days": 43,
+        "last_recorded_total": 42,
+        "views_diff_last_run": 1,
+        "cumulative_views": 145
     },
     "Pritz69/UNFOLLOW-GITHUB-USERS-WHO-DONT-FOLLOW-US": {
         "total_views_last_14_days": 0,
@@ -30,10 +30,10 @@
         "cumulative_views": 7
     },
     "Pritz69/5011251": {
-        "total_views_last_14_days": 0,
+        "total_views_last_14_days": 1,
         "last_recorded_total": 0,
-        "views_diff_last_run": 0,
-        "cumulative_views": 21
+        "views_diff_last_run": 1,
+        "cumulative_views": 22
     },
     "Pritz69/Portfolio_Website": {
         "total_views_last_14_days": 3,
@@ -42,9 +42,9 @@
         "cumulative_views": 9
     },
     "Pritz69/LeetCode-JS-30DaysChallenge": {
-        "total_views_last_14_days": 15,
-        "last_recorded_total": 35,
-        "views_diff_last_run": -20,
+        "total_views_last_14_days": 14,
+        "last_recorded_total": 15,
+        "views_diff_last_run": -1,
         "cumulative_views": 64
     },
     "Pritz69/Calculator": {
@@ -85,8 +85,14 @@
     },
     "Pritz69/GitHub-Repo-View-Tracker": {
         "total_views_last_14_days": 2,
-        "last_recorded_total": 7,
-        "views_diff_last_run": -5,
+        "last_recorded_total": 2,
+        "views_diff_last_run": 0,
         "cumulative_views": 195
+    },
+    "Pritz69/MAFSMBMDDPWI-FYP-2025": {
+        "total_views_last_14_days": 25,
+        "last_recorded_total": 0,
+        "views_diff_last_run": 25,
+        "cumulative_views": 25
     }
 }
