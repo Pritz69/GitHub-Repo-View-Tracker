@@ -20,6 +20,7 @@ REPOSITORIES_TO_TRACK = [
     "Pritz69/MemoryGame",
     "Pritz69/Terminal_Portfolio",
     "Pritz69/MovieRecommenderSite",
+    "Pritz69/MAFSMBMDDPWI-FYP-2025",
     "Pritz69/Wine_Quality_Prediction_ML"
 ]
 DATA_FILE = "repo_views.json"
