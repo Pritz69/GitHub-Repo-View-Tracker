@@ -1,14 +1,14 @@
 {
     "Pritz69/LeetCode-Solutions": {
-        "total_views_last_14_days": 8,
-        "last_recorded_total": 4,
-        "views_diff_last_run": 4,
-        "cumulative_views": 61
+        "total_views_last_14_days": 9,
+        "last_recorded_total": 8,
+        "views_diff_last_run": 1,
+        "cumulative_views": 62
     },
     "Pritz69/GFG_POTD": {
         "total_views_last_14_days": 24,
-        "last_recorded_total": 19,
-        "views_diff_last_run": 5,
+        "last_recorded_total": 24,
+        "views_diff_last_run": 0,
         "cumulative_views": 196
     },
     "Pritz69/UNFOLLOW-GITHUB-USERS-WHO-DONT-FOLLOW-US": {
@@ -30,21 +30,21 @@
         "cumulative_views": 11
     },
     "Pritz69/5011251": {
-        "total_views_last_14_days": 95,
-        "last_recorded_total": 100,
-        "views_diff_last_run": -5,
+        "total_views_last_14_days": 84,
+        "last_recorded_total": 95,
+        "views_diff_last_run": -11,
         "cumulative_views": 528
     },
     "Pritz69/Portfolio_Website": {
-        "total_views_last_14_days": 1,
+        "total_views_last_14_days": 0,
         "last_recorded_total": 1,
-        "views_diff_last_run": 0,
+        "views_diff_last_run": -1,
         "cumulative_views": 16
     },
     "Pritz69/LeetCode-JS-30DaysChallenge": {
         "total_views_last_14_days": 5,
-        "last_recorded_total": 3,
-        "views_diff_last_run": 2,
+        "last_recorded_total": 5,
+        "views_diff_last_run": 0,
         "cumulative_views": 92
     },
     "Pritz69/Calculator": {
@@ -61,8 +61,8 @@
     },
     "Pritz69/MemoryGame": {
         "total_views_last_14_days": 2,
-        "last_recorded_total": 0,
-        "views_diff_last_run": 2,
+        "last_recorded_total": 2,
+        "views_diff_last_run": 0,
         "cumulative_views": 6
     },
     "Pritz69/Terminal_Portfolio": {
@@ -72,9 +72,9 @@
         "cumulative_views": 3
     },
     "Pritz69/MovieRecommenderSite": {
-        "total_views_last_14_days": 2,
+        "total_views_last_14_days": 1,
         "last_recorded_total": 2,
-        "views_diff_last_run": 0,
+        "views_diff_last_run": -1,
         "cumulative_views": 20
     },
     "Pritz69/Wine_Quality_Prediction_ML": {
