@@ -1,14 +1,14 @@
 {
     "Pritz69/LeetCode-Solutions": {
-        "total_views_last_14_days": 17,
-        "last_recorded_total": 15,
-        "views_diff_last_run": 2,
+        "total_views_last_14_days": 13,
+        "last_recorded_total": 17,
+        "views_diff_last_run": -4,
         "cumulative_views": 72
     },
     "Pritz69/GFG_POTD": {
-        "total_views_last_14_days": 36,
-        "last_recorded_total": 41,
-        "views_diff_last_run": -5,
+        "total_views_last_14_days": 32,
+        "last_recorded_total": 36,
+        "views_diff_last_run": -4,
         "cumulative_views": 213
     },
     "Pritz69/UNFOLLOW-GITHUB-USERS-WHO-DONT-FOLLOW-US": {
@@ -30,10 +30,10 @@
         "cumulative_views": 11
     },
     "Pritz69/5011251": {
-        "total_views_last_14_days": 35,
+        "total_views_last_14_days": 41,
         "last_recorded_total": 35,
-        "views_diff_last_run": 0,
-        "cumulative_views": 528
+        "views_diff_last_run": 6,
+        "cumulative_views": 534
     },
     "Pritz69/Portfolio_Website": {
         "total_views_last_14_days": 2,
@@ -42,9 +42,9 @@
         "cumulative_views": 18
     },
     "Pritz69/LeetCode-JS-30DaysChallenge": {
-        "total_views_last_14_days": 8,
-        "last_recorded_total": 9,
-        "views_diff_last_run": -1,
+        "total_views_last_14_days": 6,
+        "last_recorded_total": 8,
+        "views_diff_last_run": -2,
         "cumulative_views": 96
     },
     "Pritz69/Calculator": {
@@ -55,14 +55,14 @@
     },
     "Pritz69/Music_Player": {
         "total_views_last_14_days": 2,
-        "last_recorded_total": 1,
-        "views_diff_last_run": 1,
+        "last_recorded_total": 2,
+        "views_diff_last_run": 0,
         "cumulative_views": 2
     },
     "Pritz69/MemoryGame": {
-        "total_views_last_14_days": 2,
+        "total_views_last_14_days": 0,
         "last_recorded_total": 2,
-        "views_diff_last_run": 0,
+        "views_diff_last_run": -2,
         "cumulative_views": 6
     },
     "Pritz69/Terminal_Portfolio": {
